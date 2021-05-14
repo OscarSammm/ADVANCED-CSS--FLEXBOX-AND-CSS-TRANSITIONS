@@ -233,7 +233,7 @@ html {
     font-weight: bold;
     text-decoration: none;
     color: #ffffff;
-  
+    transition: opacity 750ms linear 250ms;
   }
   
   .button:hover {
