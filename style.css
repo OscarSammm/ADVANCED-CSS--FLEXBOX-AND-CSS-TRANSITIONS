@@ -20,6 +20,8 @@ html {
     }
   }
   
+  /* Navigation Bar */
+  
   nav {
     position: fixed;
     z-index: 5;
@@ -64,7 +66,7 @@ html {
   nav a {
     text-decoration: none;
     color: inherit;
-    
+    transition: color 2s linear 760ms;
   }
   
   nav a:hover,
